@@ -1,0 +1,370 @@
+﻿<!DOCTYPE html>
+<!--
+Template Name: Luthum
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>notice</title>
+<!-- #EndEditable -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="fl_left">
+    	<p> தென்னாடுடைய சிவனே போற்றி!</p>
+    
+ <!-- Commented out Top Left Phone etc  
+
+   		<ul class="nospace">
+        	<li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        	<li><i class="fa fa-envelope-o"></i> info@domain.com</li>
+      </ul>
+      
+   -->   
+   
+  
+    </div>
+    <div class="fl_right">
+    	 <p> எந்நாட்டவர்க்கும்  இறைவா போற்றி ! </p>
+    	 <!-- #BeginEditable "lang%20region" -->
+    	 <ul class="nospace">
+    	 
+ <!--        	<li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>  -->
+ 
+        	<li><a href="index.html">தமிழ் </a></li>
+        	<li><a href="en/index-en.html">English</a></li>
+      	</ul>
+
+      	
+    <!-- #EndEditable -->
+
+      	
+    </div>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/mansa.jpg');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+      
+      	<h1>ஐந்நூற்றுவர்</h1>
+        <br>
+        <p>iNNOOTTRUVAR</p>
+               
+ <!--       <p> <a href="#"><i class="fa fa-lg fa-home"></i></a></p>  -->
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- #BeginEditable "menu%20region" -->
+      <nav id="mainav" class="fl_right">
+        <ul class="clear">
+        
+           <li>
+		   <a href="index.html">முகப்பு - Home</a></li> 
+		   
+		   <li><a  class="drop" href="temples.html">நம் கோவில்கள்</a>
+			<ul>
+              <li>
+			  <a href="palakkadu.html">பாலக்காடு விற்றூணியார் கோவில்</a></li>
+              <li>
+			  <a href="temples.html">குலதெய்வக் கோவில்கள்</a></li>
+			  
+			  <li>
+			  <a class="drop" href="paadalkal.html">பாடல்கள்</a>
+			  	<ul>
+			  		<li>
+			  		<a href="vinayagaragaval.html"> விநாயகர் அகவல்   </a></li>
+			  		<li>
+			  		<a href="sivapuraanam.html"> சிவபுராணம்   </a></li>
+			  		<li>
+			  		<a href="poarri.html"> போற்றித் திருத்தாண்டகம்    </a></li>
+			  		<li>
+			  		<a href="kolaru.html">கோளறு பதிகம்  </a></li>
+			  		<li>
+			  		<a href="thiruvempaavai.html"> திருவெம்பாவை </a></li>
+			  		<li>
+			  		<a href="kandhasashti.html"> கந்தசஷ்டி கவசம் </a></li>
+			  		<li>
+			  		<a href="mahishasuramardhini.html"> மஹிஷாசுரமர்தினி </a></li>
+			  		
+			  		</ul>
+            
+			  
+<!--              <li>
+			  <a href="pages/sidebar-left.html">மற்ற கோவில்கள்</a></li>
+ -->             
+          </ul></li>
+          
+          
+		   
+		   <li><a class="drop" href="events.html">நிகழ்வுகள்</a>
+		  			
+
+		   	
+            <ul>
+              <li>
+              <a href="events.html">நிகழ்வுகள்</a></li>
+              <li>
+              <a href="notice.html">அறிவிப்பு/தகவல்</a></li>
+               
+
+            </ul></li>
+
+         
+
+
+
+      
+          <li>
+		  <a class="drop" href="aboutus.html">நம்மைப்பற்றி</a>
+            <ul>
+              <li>
+			  <a href="aboutus.html">நமது சமூகம்</a></li>
+              <li>
+			  <a href="manage.html">நிர்வாகம்</a></li>
+            </ul>
+          </li>
+          	 <li><a class="drop" href="functions.html">வழிமுறைகள்</a>
+            <ul>
+              <li><a href="marriage.html">திருமணம்</a></li>
+              	                      	
+              <li><a href="otherfns.html">மற்ற சுபகாரியங்கள்  </a></li>
+              		              
+              <li><a href="festivals.html">பண்டிகைகள்</a></li>
+              
+              <li> <a href="last.html"> பிற காரியங்கள் </a> </li>
+              
+            </ul>
+         
+         
+         
+      
+         
+
+          <li>
+		 <a href="contact.html">தொடர்பு கொள்ள</a></li>
+   
+    
+        </ul>
+      </nav>
+      <!-- #EndEditable -->
+      <!-- ################################################################################################ -->
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+ 
+ <!-- This part is hidden in css through visibility -->
+ <div id="breadcrumb" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+   
+
+	 <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Lorem</a></li>
+      <li><a href="#">Ipsum</a></li>
+      <li><a href="#">Dolor</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+ 
+
+ </div>
+  
+<!--  End of hiding -->
+  
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <!-- #BeginEditable "Content%20Region" -->
+    <div class="content"> 
+      <!-- ################################################################################################ -->
+      
+      <!--
+      <h1>&lt;h1&gt; to &lt;h6&gt; - Headline Colour and Size Are All The Same</h1>
+      -->
+      
+      <h1> அறிவிப்புப் பலகை </h1>
+      <br>
+            
+      <h2> எம்மாம்பூண்டி ஐந்நூற்றுச்செட்டிமார் மகா சபை கூட்டம் </h2>
+      <p> அன்புடையீர் </p>
+      
+      <p> நிகழும் ஹேவிளம்பி வருடம் வைகாசி மாதம் 28- ஆம் தேதி (11-06-2017) ஞாயிற்றுக்கிழமை காலை 10 மணியளவில் 
+      நமது எம்மாம்பூண்டி ஐந்நூற்றுச்செட்டிமார் சபையின் 77-ஆவது மகாசபைக் கூட்டம் 
+      அவிநாசி நம்மவர் பார்வதி கல்யாண மண்டபத்தில் நடைபெற உள்ளது.  
+      அது சமயம் தாங்கள் தங்கள் குடும்ப சமேதராய் தவறாது கலந்து கொண்டு சிறப்பிக்க வேண்டுகிறோம்.
+      
+      <br><br> <br>
+      
+     <div  style ="text-align:right">
+      இப்படிக்கு<br><br>
+      
+      
+    திரு. V.M. லக்ஷ்மிநாராயணன், சென்னை.  தலைவர் <br>
+	திரு. T.S.A. சேனாபதி (பாபு), திருப்பூர். துணைத்தலைவர்<br>
+	திரு. K.P. ஜனார்த்தனம், திருப்பூர். செயலாளர் <br>	
+	திரு. S. தனபால், ஊத்துக்குளி.துணை செயலாளர் <br>
+	திரு. Dr. A. சுப்ரமணியம், திருப்பூர்.பொருளாளர் <br>
+	</div>
+	</p>
+	<br><br>
+	
+	
+	<div style ="text-align:center">நிகழ்ச்சி நிரல் </div>
+	
+	<ol>
+		<li> கடவுள் வணக்கம் </li>
+		<li> வரவேற்புரை </li>
+		<li> சென்ற கூட்ட நடவடிக்கைகள் வாசித்து அங்கீகரித்தல்</li>
+		<li> 01-04-2016 முதல் 31-03-2017 தேதி முடிய சபையின் வரவு செலவு கணக்கு சமர்பித்தலும் அங்கீகரித்தலும்</li>
+		<li> ஸ்ரீ விற்றூணி-தேவஸ்தானம் 2016-ஆம்-ஆண்டுக்கான வரவு செலவு கணக்கு சமர்பித்தலும் அங்கீகரித்தலும்</li>
+		<li> பார்வதி கல்யாண மண்டபம் 2016-2017 ஆண்டுக்கான வரவு செலவு கணக்கு சமர்பித்தலும் அங்கீகரித்தலும் </li>
+		<li> கெங்காதரம் செட்டியார் அறக்கட்டளை 2016-2017 ஆண்டுக்கான வரவு செலவு சமர்பித்தலும் அங்கீகரித்தலும்</li>
+		<li> ஸ்ரீ விற்றூணி-தேவஸ்தானம், பார்வதி கல்யாண மண்டபம், கெங்காதரம் செட்டியார் சத்திரம் ஆகியவைகளுக்கு 2017-2018ஆம்  ஆண்டுக்கான உத்தேச பட்ஜெட் அங்கீகரித்தல்</li>
+		<li> உமையஞ்செட்டியார் தண்ணீர்பந்தல் வரவு - செலவு அறிக்கை சமர்ப்பித்தல்</li><br>
+		
+		<li> இதர விஷயங்களும் தீர்மானங்களும் </li>
+			<ol>
+				<li> பாலக்காடு யாகசாலை மற்றும் அன்னக்கூடம் கட்டுவது சம்பந்தமாக </li>
+				<li> பழனி மடம் சம்பந்தமாக</li>
+				<li>கருணைபாளையம் இடம் சம்பந்தமாக</li> 
+				<li>நமது சமூகம் சார்ந்த அனைத்து ஆவணங்களையும் சேகரிப்பது பராமரிப்பது குறித்து </li>
+				<li>மண்டபம் வாடகை சம்பந்தமாக</li>
+				<li>அன்னதானம் சம்பந்தமாக</li> 
+				<li>உமையஞ்செட்டியார் வாடகை சம்பந்தமாக</li>
+			</ol>
+		<li> நன்றி நவிலல் </li>	
+	</ol>	
+
+      
+    </div>
+    <!-- #EndEditable -->
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Footer Background Image Wrapper -->
+
+<!-- Comment out this also -->
+
+<!--
+<div class="bgded overlay" style="background-image:url('../images/demo/backgrounds/04.png');"> -->
+  <!-- ################################################################################################ -->
+  <!--
+  
+  <div class="wrapper row4">
+    <footer id="footer" class="hoc clear"> 
+      
+      
+      <div class="one_quarter first">
+        <h6 class="title">Consectetur adipiscing</h6>
+        <p>Praesent non consequat mi vitae rhoncus tortor proin imperdiet euismod pretium maecenas ac neque malesuada mauris hendrerit cursus.</p>
+        <p>Consequat leo eu ligula vulputate auctor cras gravida quis quam vel dignissim nullam lobortis justo ac congue.</p>
+      </div>
+      <div class="one_quarter">
+        <h6 class="title">Duis suscipit tortor</h6>
+        <ul class="nospace linklist contact">
+          <li><i class="fa fa-map-marker"></i>
+            <address>
+            Street Name &amp; Number, Town, Postcode/Zip
+            </address>
+          </li>
+          <li><i class="fa fa-phone"></i> +00 (123) 456 7890<br>
+            +00 (123) 456 7890</li>
+          <li><i class="fa fa-fax"></i> +00 (123) 456 7890</li>
+          <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
+        </ul>
+      </div>
+      <div class="one_quarter">
+        <h6 class="title">Non vestibulum rutrum</h6>
+        <ul class="nospace linklist">
+          <li><a href="#">Varius nullam a enim ac</a></li>
+          <li><a href="#">Justo iaculis congue eu vel</a></li>
+          <li><a href="#">Aliquam pulvinar fermentum</a></li>
+          <li><a href="#">Lacus condimentum elementum</a></li>
+          <li><a href="#">Vel nulla massa curabitur</a></li>
+        </ul>
+      </div>
+      <div class="one_quarter">
+        <h6 class="title">Imperdiet libero vitae</h6>
+        <ul class="nospace linklist">
+          <li>
+            <article>
+              <h6 class="nospace font-x1"><a href="#">Fermentum mauris</a></h6>
+              <time class="font-xs block btmspace-10" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
+              <p class="nospace">Sit amet pharetra mauris eros ut turpis curabitur molestie&hellip;</p>
+            </article>
+          </li>
+          <li>
+            <article>
+              <h6 class="nospace font-x1"><a href="#">Enim tempor neque</a></h6>
+              <time class="font-xs block btmspace-10" datetime="2045-04-05">Thursday, 5<sup>th</sup> April 2045</time>
+              <p class="nospace">Hendrerit justo cras in nulla a mi aliquet tempus integer&hellip;</p>
+            </article>
+          </li>
+        </ul>
+      </div>
+      
+      
+      <!-- ################################################################################################ -->
+ <!--   </footer>
+  </div>
+  
+  -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row5">
+    <div id="copyright" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">PiMu Tech</a></p>
+      <p class="fl_right">Design by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+<!--
+</div>
+
+-->
+<!-- End Footer Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

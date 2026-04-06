@@ -1,0 +1,408 @@
+﻿<!DOCTYPE html>
+<!--
+Template Name: Luthum
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Luthum</title>
+<!-- #EndEditable -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+       
+    
+    <div class="fl_left">
+    
+    <!-- Inserted this Text -->
+    <p> தென்னாடுடைய சிவனே போற்றி!</p>
+    
+ <!-- Commented out Top Left Phone etc   
+     <ul class="nospace">
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
+      </ul>
+ -->     
+      
+    </div>
+    
+      
+    <div class="fl_right">
+   
+	<!-- Inserted this Text -->
+     <p> எந்நாட்டவர்க்கும்  இறைவா போற்றி ! </p>
+     <!-- #BeginEditable "lang%20region" -->
+     <ul class="nospace">
+<!-- Remove Home button 
+        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
+-->
+        <li><a href="index.html">தமிழ் </a></li>
+        <li><a href= "en/index-en.html">English</a></li>
+      </ul>
+
+     
+     
+  <!-- #EndEditable -->
+
+     
+     
+  <!-- Commented out Top row right items also   
+   
+      <ul class="nospace">
+        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Register</a></li>
+      </ul>
+      
+-->
+    </div>
+    
+  
+    
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/kailash.jpg');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+       <div id="logo" class="fl_left">
+        <h1>ஐந்நூற்றுவர்</h1>
+        <br>
+        <p>iNNOOTTRUVAR</p>
+        
+           
+        
+      </div>
+
+      <!-- ################################################################################################ -->
+      <!-- #BeginEditable "menu%20region" -->
+      <nav id="mainav" class="fl_right">
+        <ul class="clear">
+        
+           <li><a href="../index.html">முகப்பு - Home</a></li> 
+           <li><a class="drop" href="#">அறிவிப்பு</a>
+            <ul>
+              <li><a href="pages/full-width.html">அறிவிப்பு/தகவல்</a></li>
+              <li><a href="#">நிகழ்வுகள்</a></li>
+            </ul>
+          </li>
+
+
+      
+          <li><a class="drop" href="#">நம்மைப்பற்றி</a>
+            <ul>
+              <li><a href="pages/gallery.html">நமது சமூகம்</a></li>
+              <li><a href="pages/full-width.html">நிர்வாகம்</a></li>
+            </ul>
+          </li>
+          
+         
+
+          <li><a class="drop" href="#">விசேஷங்கள்</a>
+            <ul>
+              <li><a class="drop" href="#">திருமணம்</a>
+              	<ul>
+              		<li><a href="#">முகவுரை </a></li> 
+               		<li><a href="#">திருமணத்திற்க்கு முன் </a></li>
+              		<li><a href="#"> நிச்சய தாம்பூலம் </a></li>
+              		<li><a href="#"> திருமண நாள் – முகூர்த்தம் வரை</a></li>
+					<li><a href="#"> திருமண நாள் – முகூர்த்ததிற்க்குப் பின் </a></li>
+					<li><a href="#"> திருமண நாள் சீர்கள்</a></li>
+					<li><a href="#"> திருமணத்திற்க்குப் பின் </a></li>
+					<li><a href="#"> ஊஞ்சல் பாட்டு </a></li>
+					<li><a href="#"> திருமண சாமான்கள் </a></li>
+              	</ul>
+                      	
+              <li><a class ="drop" href="#">மற்ற விசேஷங்கள் </a>
+              		<ul>
+              			  <li><a href="pages/gallery.html">திருவாதிரைச்சீர்</a></li>
+			              <li><a href="pages/full-width.html">பொங்கல் சீர்</a></li>
+			              <li><a href="pages/sidebar-left.html">கொள்ளு பயறு  சீர்</a></li>
+			              <li><a href="pages/sidebar-left.html">வளைகாப்பு – சீமந்தம்</a></li>
+			              <li><a href="pages/sidebar-left.html">குழந்தை நாமகரணம்</a></li>
+			              <li><a href="pages/sidebar-left.html">அன்னப்பிராசனம்</a></li>
+			              <li><a href="pages/sidebar-right.html">குழந்தை முடி காணிக்கை</a></li>
+			              <li><a href="pages/basic-grid.html">காதணி விழா</a></li>
+			              <li><a href="pages/basic-grid.html">ருது மங்கள ஸ்நானம்</a></li>
+            		</ul>
+
+              
+              
+              <li><a href="#">பண்டிகைகள்</a></li>
+            </ul>
+         
+         <li><a class="drop" href="#">நம் கோவில்கள்</a>
+            <ul>
+              <li><a href="pages/gallery.html">பாலக்காடு விற்றூணியார் கோவில்</a></li>
+              <li><a href="pages/full-width.html">குலதெய்வக் கோவில்கள்</a></li>
+              <li><a href="pages/sidebar-left.html">மற்ற கோவில்கள்</a></li>
+              <li><a href="pages/sidebar-left.html">பாடல்கள்</a></li>
+            </ul>
+          </li>
+         
+         
+		 <li><a href="#">தொடர்பு கொள்ள</a></li>
+ <!--         
+          <li><a class="drop" href="#">திருமணம்</a>
+            <ul>
+              
+               <li><a href="#">திருமணம் – முகவுரை </a></li> 
+               <li><a class="drop" href="#">திருமணத்திற்க்கு முன் </a>
+                <ul>
+                  <li><a href="#"> பெண் கேட்பது </a></li>
+                  <li><a href="#"> திருமணம் உறுதி செய்தல்   </a></li>
+                  <li><a href="#"> பத்திரிகை எழுதுதல் </a></li>
+                  <li><a href="#"> மணமகன் வீட்டில் பட்டை வார்த்தல்  </a></li>
+                  <li><a href="#"> மணமகள் வீட்டில் பயறு வறுத்துப் பட்டை வார்த்தல் </a></li>
+                  <li><a href="#"> குலதெய்வப் பிரார்த்தனை/காணிக்கை முடிதல் </a></li>
+                                  
+                 </ul>
+              </li>
+              
+              <li><a class="drop" href="#"> நிச்சய தாம்பூல நாள் </a>
+              
+              <ul>
+                  <li><a href="#"> நிச்சய  தாம்பூலம் </a></li>
+                  <li><a href="#"> காப்பு நூல் - திருமாங்கல்ய நாண் – தயாரித்தல் </a></li>
+                  <li><a href="#"> கல்யாண  விளக்கு </a></li>
+                  <li><a href="#"> சுப மாங்கல்யப் பிரார்த்தனை - முன்னோர் வழிபாடு (கூறைக்குப் போடுதல்)  </a></li>
+                  <li><a href="#"> முகூர்த்தக்கால் </a></li>    
+				  <li><a href="#"> பட்டை வார்த்தல் - மேல்கட்டி கட்டுதல் </a></li> 
+				  <li><a href="#"> சிரப்பு வைத்தல் </a></li> 
+				  <li><a href="#"> சீர்த்தண்ணீர்  எடுத்து வருதல் </a></li> 
+				  <li><a href="#"> புற்றுமண் எடுத்தல் </a></li> 
+				  <li><a href="#"> மணவறை அலங்காரம் </a></li> 
+				  <li><a href="#"> குத்துவிளக்கு ஏற்றி, கரகம் வைத்தல் </a></li> 
+                </ul>
+              </li>
+
+              
+              <li><a class="drop" href="#">திருமண நாள் – முகூர்த்தம் வரை </a>
+              <ul>
+                  <li><a href="#"> மணமகனுக்கு முகவேலை </a></li>
+                  <li><a href="#"> மணமகன் மங்கள நீராடல்   </a></li>
+                  <li><a href="#"> மணமகள் - மங்கள நீராடல் </a></li>
+                  <li><a href="#"> மணமகன் அலங்காரம் - மாலை அணிவித்தல்  </a></li>
+                  <li><a href="#"> மணமகனுக்கு காப்புக்கட்டுதல் </a></li>
+                  <li><a href="#"> மணமகனை திருமண இல்லத்திற்குஅனுப்புதல் </a></li>
+                  <li><a href="#"> மணமகன் வினாயகர் வழிபாடு </a></li>
+                  <li><a href="#">  மாப்பிள்ளை அழைப்பு </a></li>
+                  <li><a href="#">  புதுக்கல சாப்பாடு </a></li>
+                  <li><a href="#"> மணமகளுக்குப் பட்டம் கட்டுதல், மாலை அணிவித்தல்  </a></li>
+                  <li><a href="#"> மணமகளுக்கு காப்புக் கட்டுதல்  </a></li>
+                  <li><a href="#">  மணமகன் மணவறைக்கு வருதல்: மணமகளுக்கு பொன்பூட்டுதல் </a></li>
+                  <li><a href="#">  வெற்றிலைபாக்கு பிடித்தல் </a></li>
+                  <li><a href="#"> மாலைமாற்றுதல் – மாங்கல்யதாரணம்  </a></li>
+                  
+                 </ul>
+              </li>
+
+               <li><a class="drop" href="#">திருமண நாள் – முகூர்த்ததிற்க்குப் பின் </a>
+				<ul>
+                  <li><a href="#">இணைக்காரி  சீர்  </a></li>
+                  <li><a href="#"> கைவீசுக்காரன் – சீர் </a></li>
+                  <li><a href="#">பாதபூஜை  </a></li>
+                  <li><a href="#">  அருகுமணம் எடுத்தல் </a></li>
+                  <li><a href="#"> ஆசீர்வாதம் </a></li>
+                  <li><a href="#">கிளைப்பணம் வைத்தல்  </a></li>
+                  <li><a href="#"> சிறுசீர் வைத்தல்  </a></li>
+                  <li><a href="#"> நாகவல்லி (நாளாணைத் தண்ணிவார்த்தல்) </a></li>
+                  <li><a href="#"> மணமகள்  மணமகனுக்கு சட்டுவச்சாதம் போடுதல் </a></li>
+                  <li><a href="#"> கரகம் நகர்த்தி – பரியம் செலுத்துவது </a></li>
+                  <li><a href="#"> ஊஞ்சல்  </a></li>
+                  <li><a href="#"> கல்யாண  "மொய்”  எழுதுதல் </a></li>
+                  <li><a href="#"> பெண் காணுதல் </a></li>
+                  <li><a href="#"> மஞ்சள் நீர்  </a></li>
+                  <li><a href="#">  மாமியார் கா வழங்கல் </a></li>
+                  <li><a href="#">மணமகளுக்கு தாயார் அன்னமிடல் </a></li>
+                 </ul>
+              </li>
+
+          
+          
+          <li><a class="drop" href="#">திருமண நாள் சீர்கள் </a>
+				<ul>
+                  
+                  <li><a href="#"> எழுதிங்கள் சீர்  </a></li>
+                  <li><a href="#"> அருமைச்சீர் </a></li>
+                                
+                 </ul>
+              </li>
+
+
+              <li><a class="drop" href="#">திருமணத்திற்க்குப் பின் </a>
+				<ul>
+                  <li><a href="#"> மணமகளை மணமகன் வீட்டுக்கு அழைத்துச் செல்லுதல் </a></li>
+                  <li><a href="#"> மணமகன் வீட்டில் நடக்கும் சீர்கள் </a></li>
+                  <li><a href="#"> தண்ணீர் சுத்துதல் </a></li>
+                  <li><a href="#"> சம்மந்தம் கலக்கல்  </a></li>
+                  <li><a href="#"> தலை தீபாவளி/ இரண்டாவது தீபாவளி </a></li>
+                           
+                 </ul>
+              </li>
+           		
+           		
+           		<li><a href="#">ஊஞ்சல் பாட்டு</a></li>
+               <li><a href="#"> திருமண சாமான்கள் </a></li>
+              
+            </ul>
+          </li>
+          
+          <li><a class="drop" href="#">சுப காரியங்கள் - </a>
+            <ul>
+              <li><a href="pages/gallery.html">திருவாதிரைச்சீர்</a></li>
+              <li><a href="pages/full-width.html">பொங்கல் சீர்</a></li>
+              <li><a href="pages/sidebar-left.html">கொள்ளு பயறு  சீர்</a></li>
+              <li><a href="pages/sidebar-left.html">வளைகாப்பு – சீமந்தம்</a></li>
+              <li><a href="pages/sidebar-left.html">குழந்தை நாமகரணம்</a></li>
+              <li><a href="pages/sidebar-left.html">அன்னப்பிராசனம்</a></li>
+              <li><a href="pages/sidebar-right.html">குழந்தை முடி காணிக்கை</a></li>
+              <li><a href="pages/basic-grid.html">காதணி விழா</a></li>
+              <li><a href="pages/basic-grid.html">ருது மங்கள ஸ்நானம்</a></li>
+            </ul>
+          </li>
+        
+          <li><a href="#">பண்டிகைகள் </a></li>
+          
+          <li><a href="#">பிற காரியங்கள்  </a></li>
+
+   -->        
+          
+          
+        <!--  
+          <li><a class="drop" href="#">Dropdown</a>
+            <ul>
+              <li><a href="#">Level 2</a></li>
+              <li><a class="drop" href="#">Level 2 + Drop</a>
+                <ul>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                  <li><a href="#">Level 3</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Level 2</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Link Text</a></li>
+          <li><a href="#">Link Text</a></li> -->
+        </ul>
+      </nav>
+      <!-- #EndEditable -->
+      <!-- ################################################################################################ -->
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+ 
+<!-- this part is hidden using css style visibility in layout.css -->
+<!-- This is done so that the contents in the article block below takes space which in 
+turn will mke the background image fill the page.  Removing the text within the article block makes the image fill only part of page -->
+  
+  
+ <div id="pageintro" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+   <article>
+    
+    	
+     <p class="heading"><a href="notice.html">அறிவிப்பு/Notice</a></p> 
+<!--    <h2 class="heading"><a href="#"> ஓம் நம சிவாய !  </a></h2> -->
+      <!-- <p>Lobortis gravida aenean vulputate vel tellus at elementum nunc lorem</p>  -->
+      <footer>
+        <ul class="nospace inline pushright">
+           <li><a class="btn" href="events.html#subam">வரவிருக்கும்  சுபநிகழ்வுகள் </a></li>
+          <li><a class="btn inverse" href="events.html#pira">வரவிருக்கும் பிறநிகழ்வுகள் </a></li>
+        </ul>
+      </footer>
+      
+      
+    </article> 
+    <!-- ################################################################################################ -->
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <!-- #BeginEditable "content%20region" -->
+    <div class="three_quarter first">
+      <h3 class="nospace">ஐந்நூற்றுவர் இணைய தளம் </h3>
+     <!-- <p class="nospace"> -->
+      <ul>
+      	<li>நமது சமூகத்தின் பாரம்பரியம் மற்றும் வரலாறு  பற்றிய தகவல்கள் </li>
+      	<br>
+      	<li>நமது எம்மாம்பூண்டி ஐந்நூற்று செட்டிமார் சபை பற்றிய விபரங்கள் மற்றும் நிர்வாக அமைப்பு</li>
+      	<br>					
+		<li>நமது சமூகத்தின் விற்றூணியார் மற்றும் குல தெய்வக் கோவில்கள் பற்றிய தகவல்கள்</li>	
+		<br>				
+		<li>முக்கியமான கடவுள் வழிபாட்டு பாடல்கள்</li>	
+		<br>				
+		<li>நம் சமூகத்தில்  திருமணம் மற்றும் அது சார்ந்த சீர்கள் செய்யும் முறைகள் </li>
+		<br>
+		<li> ஊஞ்சல் பாட்டு, திருமண சாமான்கள் பற்றிய விபரங்கள்</li>	
+		<br>			
+		<li>திருமணம் தவிர மற்ற விசேஷங்கள் செய்யும் முறைகள்</li>
+		<br>
+		<li> பண்டிகைகள் கொண்டாடும் வழி முறைகள்</li>
+		<br>				
+		<li>பிற காரியங்கள் செய்யும் முறைகள், தேவையான சாமான்கள்	</li>
+	</ul>					
+<!-- </p>  -->
+    </div>
+    <!-- #EndEditable -->
+    <!-- <footer class="one_quarter"><a class="btn" href="#">More Information &raquo;</a></footer> -->
+    
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Footer Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/footer.jpg');"> 
+  
+  <!-- ################################################################################################ -->
+  <div class="wrapper row5">
+    <div id="copyright" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved -  <a href="#">PiMu Tech</a></p>
+      <p class="fl_right">Design by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Footer Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
